@@ -8,7 +8,8 @@ This project involved analyzing real-world sales data from Instacart, a leading 
 
 The analysis ultimately supports Instacart's efforts to deliver more relevant, customer-focused experiences.
 
-# **Objective**
+# **Objective**                     <img src="https://www.pngmart.com/files/23/Instacart-Logo-PNG.png" width="200" />
+
 Conduct an exploratory data analysis of Instacart’s sales data to uncover customer purchasing patterns and generate insights that support strategic customer segmentation and targeted marketing efforts.
 
 # **Key Business & Analytical Questions Addressed**
