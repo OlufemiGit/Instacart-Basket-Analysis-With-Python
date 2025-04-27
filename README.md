@@ -46,6 +46,7 @@ The analysis was conducted using Python within a Jupyter Notebook environment, l
 - **Seaborn:** for high-level, aesthetically pleasing statistical data visualizations
 - **Matplotlib:** for creating detailed and customizable plots
 - **OS:** for handling file and directory operations during data import and export
+- **ChatGPT & Other LLMs:** Assisted with structuring project documentation, refining grammar, and enhancing clarity in written content.
 
 # **Process / Methodology**
 The analysis was conducted using a systematic data analysis approach to uncover meaningful insights from Instacart's sales data. The methodology involved the following stages:
